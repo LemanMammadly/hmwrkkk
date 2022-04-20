@@ -1,0 +1,14 @@
+\\Mac\Home\Desktop\homeworks\homework0\homework0\bin\Debug\netcoreapp3.1\homework0.exe
+\\Mac\Home\Desktop\homeworks\homework0\homework0\bin\Debug\netcoreapp3.1\homework0.deps.json
+\\Mac\Home\Desktop\homeworks\homework0\homework0\bin\Debug\netcoreapp3.1\homework0.runtimeconfig.json
+\\Mac\Home\Desktop\homeworks\homework0\homework0\bin\Debug\netcoreapp3.1\homework0.runtimeconfig.dev.json
+\\Mac\Home\Desktop\homeworks\homework0\homework0\bin\Debug\netcoreapp3.1\homework0.dll
+\\Mac\Home\Desktop\homeworks\homework0\homework0\bin\Debug\netcoreapp3.1\homework0.pdb
+\\Mac\Home\Desktop\homeworks\homework0\homework0\obj\Debug\netcoreapp3.1\homework0.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\homeworks\homework0\homework0\obj\Debug\netcoreapp3.1\homework0.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\Home\Desktop\homeworks\homework0\homework0\obj\Debug\netcoreapp3.1\homework0.AssemblyInfoInputs.cache
+\\Mac\Home\Desktop\homeworks\homework0\homework0\obj\Debug\netcoreapp3.1\homework0.AssemblyInfo.cs
+\\Mac\Home\Desktop\homeworks\homework0\homework0\obj\Debug\netcoreapp3.1\homework0.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\homeworks\homework0\homework0\obj\Debug\netcoreapp3.1\homework0.dll
+\\Mac\Home\Desktop\homeworks\homework0\homework0\obj\Debug\netcoreapp3.1\homework0.pdb
+\\Mac\Home\Desktop\homeworks\homework0\homework0\obj\Debug\netcoreapp3.1\homework0.genruntimeconfig.cache
